@@ -1,6 +1,6 @@
 # Metode Numerik
 
-Copyright [Hugo Annito](https://www.facebook.com/messages/t/DarkOrbiTzX) © 2018
+Copyright [Hugo Annito](https://www.facebook.com/messages/t/DarkOrbiTzX) © 2017
 
 ## About
 
