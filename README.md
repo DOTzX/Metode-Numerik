@@ -24,3 +24,9 @@ Metode yang dibuat:
 9. Dekomposisi LU - Doolittle
 10. Iterasi Jacobi
 11. Iterasi Gauss-Seidel
+
+### Note
+
+Remidi makul metode numerik dari pak Nedi wkwkwk XD
+
+*STMIK Pontianak*
